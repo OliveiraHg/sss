@@ -98,4 +98,4 @@ return hasil
 
 module.exports = { y2mateV}
 
-y2mateA("https://youtu.be/Gi8KaGhOSzs").then(console.log)
+y2mateV("https://youtu.be/Gi8KaGhOSzs").then(console.log)
