@@ -91,8 +91,8 @@ let res2 = await post(`https://www.y2mate.com/mates/en68/convert`, {
 const meme = await res2.json()
 const supp = cheerio.load(meme.result)
 let link = supp('div').find('a').attr('href')*/
-hasil.push({ thumb, judul, quality, tipe, size, output, link})
-return hasil
+//hasil.push({ thumb, judul, quality, tipe, size, output, link})
+//return hasil
 }
 
 
