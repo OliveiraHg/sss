@@ -1,0 +1,14 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mkdirp","time":"2023-12-24T12:45:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nodemon","time":"2023-12-24T12:45:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nodetouch","time":"2023-12-24T12:45:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nopt","time":"2023-12-24T12:45:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rimraf","time":"2023-12-24T12:45:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2023-12-24T12:45:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/yarn","time":"2023-12-24T12:45:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/yarnpkg","time":"2023-12-24T12:45:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/fstream/node_modules/.bin/mkdirp","time":"2023-12-24T12:45:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/fstream/node_modules/.bin/rimraf","time":"2023-12-24T12:45:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/nodemon/node_modules/.bin/nodetouch","time":"2023-12-24T12:46:01Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/nodemon/node_modules/.bin/semver","time":"2023-12-24T12:46:01Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/simple-update-notifier/node_modules/.bin/semver","time":"2023-12-24T12:46:03Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/touch/node_modules/.bin/nopt","time":"2023-12-24T12:46:05Z"}
